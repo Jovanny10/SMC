@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Principal</title>
+	<title>Index</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" type="text/css" href="Libreria/css/bootstrap.min.css">
 	<script type="text/javascript" src="Libreria/js/jquery-3.5.0.min.js"></script>
